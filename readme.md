@@ -31,3 +31,8 @@ controle-financeiro/
 ├── gastos.csv       # Base de dados local com os lançamentos
 ├── requisitos.txt   # Dependências do projeto
 └── readme.md        # Documentação do repositório
+
+
+## ⚙️ Como Executar Localmente
+git clone [https://github.com/brsa1409-lab/controle-financeiro.git](https://github.com/brsa1409-lab/controle-financeiro.git)
+cd controle-financeiro
